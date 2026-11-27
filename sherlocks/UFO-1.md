@@ -45,5 +45,6 @@ Otro dato relevante es el malware AcidRain (S1125), vinculado a Sandworm Team y 
 <img width="1364" height="43" alt="image" src="https://github.com/user-attachments/assets/e4d8a8c5-8a93-491f-b234-7f9c0b19d61b" />
 
 Por ultimo reviso la tecnica T1571 (Non-Standard Port), donde se confirma que Sandworm Team ha usado el puerto 6789 para aceptar conexiones en su servidor SSH.
+<img width="1393" height="214" alt="image" src="https://github.com/user-attachments/assets/a289a4f2-0135-492f-80dd-d8f4d1eb4b8b" />
 
 Con toda esta info mapeada en MITRE ATT&CK completo el reto. Este sherlock me sirvio bastante para practicar como hacer Threat Intelligence research de forma estructurada en vez de solo analizar paquetes o logs: aprendi a moverme en el framework de ATT&CK para sacar TTPs, software y procedimientos asociados a un grupo APT real.
